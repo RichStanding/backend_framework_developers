@@ -1,5 +1,5 @@
 from flask import Flask, Response
-from main_service.main_service_routes import main_service
+from backend_framework_client.main_service.main_service_routes import main_service
 from controllers.controllers import primary_controller
 from flask_healthz import healthz
 
