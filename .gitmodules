@@ -1,3 +1,3 @@
-[submodule "backend_framework_client"]
-	path = backend_framework_client
+[submodule "backend_framework_client1"]
+	path = backend_framework_client1
 	url = https://github.com/r2dl/backend_framework_client.git
